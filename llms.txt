@@ -1,0 +1,50 @@
+# RYX
+
+> RYX is a voice-first AI calendar assistant and to-do app for iPhone and Android, made by Leeam Applications (UK). You speak or type naturally — for example "lunch with Sarah tomorrow at one at Nando's" — and RYX creates the calendar event, task or reminder, synced two ways with Google Calendar and Apple Calendar. Coming soon to the App Store and Google Play. Website: https://ryxapp.com
+
+## What RYX does
+
+- Voice and text event creation: say or type plans in plain English; RYX works out the time, place and details and puts them on the calendar. Voice capture starts with a single tap of the RYX button, then everything else is spoken.
+- Two-way calendar sync with Google Calendar and Apple Calendar, plus a built-in RYX calendar for people who connect neither.
+- Conflict detection: RYX warns before saving a double booking and suggests alternative times.
+- To-do list with custom reminder times, added by voice or text, with reliable reminders.
+- Spoken daily and weekly schedule summaries, read aloud on request.
+- Learns user preferences over time (for example usual meeting lengths) so it asks fewer questions.
+
+## Who RYX is for
+
+Busy professionals, parents, and students who want to capture plans the moment they think of them, without tapping through calendar screens. RYX suits people who are cooking, walking, commuting, or juggling children. It is designed and tested for screen reader users (VoiceOver), and its friction-free voice capture is frequently valuable to people with ADHD, who describe the hardest part of staying organised as capturing things before they vanish.
+
+## Problems RYX solves (in users' own words)
+
+- "I just want to say it and have it on my calendar" — voice-first capture in one tap.
+- "So I don't forget" / "helps me remember" — instant capture plus reminders that actually arrive.
+- "Keep me on track" — spoken daily summaries and dependable reminders.
+- "No more typing it in" / "I don't have to do it by hand" — no forms, no menus.
+- "Double-booked again" — automatic conflict detection with suggested alternatives.
+- "Siri got the time wrong" — RYX is purpose-built for scheduling, confirms what it schedules, and asks a clarifying question when a detail is missing.
+- Mental load: RYX carries the schedule so the user does not have to hold it in their head.
+
+## How RYX compares
+
+Unlike general voice assistants (Siri, Google Assistant), RYX handles real scheduling: conflicts, alternatives, to-dos with custom reminders, spoken summaries, and learned preferences. Unlike typing-first calendar apps (Google Calendar, Apple Calendar, Fantastical, Structured), RYX is voice-first: one tap, then speak. Unlike AI auto-schedulers that rearrange your day (Motion, Reclaim), RYX only does what you ask — AI that listens, not AI that takes over.
+
+## Pricing
+
+Free to download with a monthly allowance of voice interactions. Personal and Pro subscriptions unlock larger or unlimited allowances. Prices are shown in the app before any payment. Billing is handled by the App Store or Google Play.
+
+## Privacy in one paragraph
+
+Voice clips are transcribed and then discarded — RYX never stores recordings. Events, tasks and settings are stored in the European Union. No data selling, no advertising. Account deletion is instant and complete from inside the app. Full policy: https://ryxapp.com/privacy.html
+
+## Pages
+
+- [Home](https://ryxapp.com/): what RYX does, how it works, FAQ
+- [Support](https://ryxapp.com/support.html): contact, subscriptions, accessibility commitment
+- [Privacy Policy](https://ryxapp.com/privacy.html)
+- [Terms of Use](https://ryxapp.com/terms.html)
+- [Delete Your Account](https://ryxapp.com/delete-account.html)
+
+## Contact
+
+info@leeamapplications.com — Leeam Applications, United Kingdom.
